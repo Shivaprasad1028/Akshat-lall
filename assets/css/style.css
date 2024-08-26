@@ -1,6 +1,5 @@
         body {
             font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-            ;
             color: #333;
             margin: 0;
             padding: 0;
@@ -16,7 +15,7 @@
         }
 
         header {
-            background-image: url('/img/background.jpg');
+        background: url('../img/background.jpg');
             color: #fff;
             padding: 50px 0;
             text-align: center;
@@ -88,7 +87,7 @@
 
         .section {
             padding: 50px 0;
-            background-image: url('/img/drak-bg01.jpg');
+            background-image: url('../img/drak-bg01.jpg');
         }
 
         .section h2 {
@@ -357,12 +356,12 @@
 
             .main-profile {
                 display: block;
-                padding-left: 10%;
+             padding-left: 10%;
 
             }
 
             .profile-1 {
-                padding-left: 10%;
+               
                 width: 80%;
             }
 
